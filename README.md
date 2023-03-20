@@ -12,15 +12,10 @@
 </p>
 
 ## Table of contents
-* [Informações gerais](#general-info)
 * [Tecnologias](#technologies)
 * [Setup](#setup)
 * [Frontend](#frontend)
 * [Backend](#backend)
-
-## Informações gerais
-This project is just for test my self, my limitation and until where I can go and pratice every single line of code that I've learn each day.
-
 
 ## Tecnologias
 * React
