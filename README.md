@@ -4,10 +4,6 @@
 
 
 <p align="center">
-  <a href="https://travis-ci.org/BakongoStudio/bakongo-api.svg">
-  <img alt="" src="https://img.shields.io/travis/BakongoStudio/bakongo-api.svg?color=2650a3">
-  </a>
-
   <img alt="GitHub language count" src="https://img.shields.io/github/license/lopesboa/kanban-dashboard?style=social">
 
   <a href="https://www.linkedin.com/in/lopesboa/">
